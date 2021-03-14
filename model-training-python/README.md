@@ -44,7 +44,11 @@
 		INPUT4: True or False- True- if prediction is needed on validation images
 		INPUT5: True or False- True- if prediction on test images is required
 
-		Improtant Note- For the first time, the input Input1, Input2, Input3, Input4 must be true to generate files "mean_std_age.pkl", "model.json", and "model.h5" needed to run the prediction on validation and test images. Eg- python main.py -i True -c True -t True.
+		Improtant Note- For the first time, the input Input1, Input2,
+		and Input3 must be true to generate files "mean_std_age.pkl",
+		"model.json", and "model.h5" needed to run the prediction on
+		validation and test images.
+		eg- python main.py -i True -c True -t True
 
 4) For help: python main.py -h
 

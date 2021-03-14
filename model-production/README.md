@@ -2,17 +2,22 @@
 
 ## Directory and file tree
 ├model-production
+
 ├───docs
 │   ├───index
+
 ├───model
 │   └───load.py
 |   └───model.json 
 |   └───model.h5
+
 ├───static
 │   └───css
 |   └───upload.js
+
 ├───templates
 |   └───upload.html 
+
 └───uploaded
 |   └───image
 └───app.py
