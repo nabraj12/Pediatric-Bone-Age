@@ -6,15 +6,10 @@
 	├───docs
 
 	│   ├───index
-
 	├───model
-
 	│   └───load.py
-
 	|   └───model.json 
-	
 	|   └───model.h5
-
 	├───static
 	│   └───css
 	|   └───upload.js
