@@ -3,28 +3,32 @@
 ## Directory and file tree
 ├model-production
 
-├───docs
-│   ├───index
+	├───docs
 
-├───model
-│   └───load.py
-|   └───model.json 
-|   └───model.h5
+	│   ├───index
 
-├───static
-│   └───css
-|   └───upload.js
+	├───model
 
-├───templates
-|   └───upload.html 
+	│   └───load.py
 
-└───uploaded
-|   └───image
-└───app.py
-└───preprocess.py
-└───Procfile.py
-└───README.py
-└───requirements.py
+	|   └───model.json 
+	
+	|   └───model.h5
+
+	├───static
+	│   └───css
+	|   └───upload.js
+
+	├───templates
+	|   └───upload.html 
+
+	└───uploaded
+	|   └───image
+	└───app.py
+	└───preprocess.py
+	└───Procfile.py
+	└───README.py
+	└───requirements.py
 
 ## Cloud Application:
 
