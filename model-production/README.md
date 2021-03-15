@@ -22,7 +22,7 @@
 	└───app.py
 	└───preprocess.py
 	└───Procfile.py
-	└───README.py
+	└───README
 	└───requirements.py
 
 ## Cloud Application:
